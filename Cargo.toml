@@ -1,0 +1,9 @@
+[package]
+authors = ["Pascal Bach <pascal.bach@nextrem.ch>"]
+name = "parwalk"
+version = "0.1.0"
+[dependencies]
+rayon = "1.0.0"
+log = "0.4.1"
+env_logger = "0.5.5"
+clap = "2.31.1"
